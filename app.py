@@ -171,7 +171,7 @@ def processing_signin():
     #user_info['id']=None
     if db_S.check_user_table(user_info):
         session['user']=user_info
-        session['name']=user_info['firstname']+user_info['lastname']
+        session['name']=''#user_info['firstname']+user_info['lastname']
         if db_S.check_user_input_table(user_info):
             return jsonify({"resp" : "Correct", "resp2":'/MyAccount'})
         else:
