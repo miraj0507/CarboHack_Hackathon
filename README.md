@@ -108,8 +108,7 @@ The project currently does the following things.
 - We are planning to make a community blog portal creating India's first climate change portal where fellow humans who are worried about the environment can come together and share their personal initiatives and ideas and have a platform to communicate and collaborate in their fight against climate change. 
 
 ![Roadmap](./static/img/commu.png)
-
-
+yes
 
 ## TEAM:
 
